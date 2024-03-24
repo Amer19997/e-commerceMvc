@@ -68,8 +68,8 @@ namespace BulkyBook.DataAcess.Data
                     Price50 = 85,
                     Price100 = 80,
                     CategoryId = 1,
-                    ImageUrl=""
-                },
+                    ImageUrl= "/images/product/1136dd2a-316e-4180-84fa-fe95088e69cd.jpg"
+				},
                 new Product
                 {
                     Id = 2,
